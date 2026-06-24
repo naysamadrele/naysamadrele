@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on AI/ML projects and exploring real-world applications of machine learning.<br><br>I’m looking to collaborate on open-source AI, machine learning, and data science projects.<br><br>I’m looking for help with improving model performance and learning advanced ML techniques.<br><br>I’m currently learning deep learning, natural language processing, and system design.<br><br>Ask me about Python, machine learning basics, and beginner AI projects.<br><br>Fun fact: I enjoy turning ideas into projects and continuously learning new technologies.<br>
+I’m currently working on AI/ML projects and exploring real-world applications of machine learning.<br><br>I’m looking to collaborate on open-source AI, machine learning, and data science projects.<br><br>I’m looking for help with improving model performance and learning advanced machine learning techniques.<br><br>I’m currently learning deep learning, natural language processing, and system design.<br><br>Ask me about Python, machine learning basics, and beginner AI projects.<br><br>Fun fact: I enjoy turning ideas into projects and continuously learning new technologies.<br>
 
 
 ## Socials:
